@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\bin\Debug\netcoreapp3.1\empleados-segundo-parcial-12.exe
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\bin\Debug\netcoreapp3.1\empleados-segundo-parcial-12.deps.json
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\bin\Debug\netcoreapp3.1\empleados-segundo-parcial-12.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\bin\Debug\netcoreapp3.1\empleados-segundo-parcial-12.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\bin\Debug\netcoreapp3.1\empleados-segundo-parcial-12.dll
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\bin\Debug\netcoreapp3.1\empleados-segundo-parcial-12.pdb
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.dll
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.pdb
+C:\Users\YeisonPX\source\repos\empleados-segundo-parcial-12\empleados-segundo-parcial-12\obj\Debug\netcoreapp3.1\empleados-segundo-parcial-12.genruntimeconfig.cache
